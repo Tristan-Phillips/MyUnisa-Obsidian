@@ -1,25 +1,25 @@
 # 🎓Provided Material
 ### Tutorial Letters
-- [[101_2025_3_b.pdf]]
+- [[PYC1512-TUT-2025-101.pdf]]
 ### Learning Units
-1. [[PYC1512 Unit 1_Biological Aspects.pdf]]
-2. [[PYC1512 Unit 2_Developmental.pdf]]
-3. [[PYC1512 Unit 3_Psychopathology.pdf]]
-4. [[PYC1512 Unit 4_Community.pdf]]
-5. [[PYC1512 Unit 5_Social.pdf]]
+1. [[PYC1512-2025-LU-1.pdf]]
+2. [[PYC1512-2025-LU-2.pdf]]
+3. [[PYC1512-2025-LU-3.pdf]]
+4. [[PYC1512-2025-LU-4.pdf]]
+5. [[PYC1512-2025-LU-5.pdf]]
 ### Additional Resources
-- [[Nwoye 2015.pdf]]
-- [[SeedatLazarus_2014_CommunityPsychology.pdf]]
-- [[Segalo 2017.pdf]]
+- [[PYC1512-AD-ARTIC-NWOYEN.pdf]]
+- [[PYC1512-AD-ARTIC-LAZARUS.pdf]]
+- [[PYC1512-AD-ARTIC-SEGALO.pdf]]
 ---
 # 🌍External Material
 ### Tutorial Letters
 #### 2023
-- [[PYC1512_TL202_2023_S2.pdf]]
-- [[PYC1513-TL102-S2.pdf]]
+- [[PYC1512-TUT-2023-202.pdf]]
+- [[PYC1513-TUT-2023-102.pdf]]
 #### 2024
-- [[PYC1512_TL201_2024_Semester2.pdf]]
-- [[PYC1512_TL202_2024_Semester2 .pdf]]
+- [[PYC1512-TUT-2024-201.pdf]]
+- [[PYC1512-TUT-2024-202.pdf]]
 ### Student Notes
 - [[PYC1512-StudentNote-Short-1.pdf]]
 ### MCQ
