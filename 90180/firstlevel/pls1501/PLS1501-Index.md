@@ -3,6 +3,9 @@
 - [[PLS1501-TUT-2025-101.pdf]]
 - [[PLS1501-TUT-2025-301.pdf]]
 - [[PLS1501-TUT-2025-501.pdf]] | Says 2024 but still provided in 2025
+- [[PLS1501-TUT-2023-501.pdf]] | Its the same as the above provided in 2025 but with character recognition 
+### Assignments
+1. [[PLS1501-ASS-P-A1.pdf]]
 ---
 # 🌍External Material
 ### Tutorial Letters
@@ -89,7 +92,10 @@
 # Live Class
 - [Class 01 Orientation](https://share.trap.lol/share/iDBoUe57M2RB2TTN) | Password is: UNISAPLS1501
 	- Slide: [[PLS1501-LIVECLASS-01-OrientationSession.pdf]]
+- [Class 02 Using Databases](https://share.trap.lol/share/ebqhADT52zGvfDVE) | Password is: UNISAPLS1501
+- [Class 03 Discussion Class](https://share.trap.lol/share/tMnsk3B2HSFuwzTD) | Password is: UNISAPLS1501
 
 ---
 # 📝My Notes
-_toDo_
+#### Study Units
+1. [[PLS1501-ME-SU1-QUOTES]]
