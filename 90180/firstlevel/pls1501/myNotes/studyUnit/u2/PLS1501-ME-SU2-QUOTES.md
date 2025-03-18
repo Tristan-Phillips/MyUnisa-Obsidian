@@ -216,3 +216,139 @@ Reference: [[PLS1501-TUT-2023-501.pdf]] | Page [[PLS1501-TUT-2023-501.pdf#page=2
 >
 >What is real must be unchanging, absolute, and universal. [[PLS1501-TUT-2023-501.pdf#page=40&annotation=3955R|p.40]]
 
+>These universals are usually translated by Plato's translators as Forms (Stumpf & Abel 2002:38). The Forms are similar to mathematical entities in that they are not accessible to sense perception it is just as difficult to find a perfectly just act, good person or beautiful statue in the experienced world as it is to find a perfectly straight line or pair of parallel lines. In addition to beauty, justice, and goodness, Plato recognised Forms for the horse, the mountain, and so on. Generally speaking, there is a Form corresponding to every kind of thing there is. But the Forms, for Plato, are not merely concepts or ideas in our minds. They were supposed by him to exist quite independently of us and our thoughts. For Plato, they were the permanent objective reality to which, if we applied our mental powers, our concepts might correspond. Plato took a realist view of Forms (universals). This means that, whatever reality is ascribed to the objects which we are aware of through sense perception, is based on the fact that these objects of sense perception share, though to a limited and imperfect extent, in the nature of the Forms (universals). [[PLS1501-TUT-2023-501.pdf#page=41&annotation=3958R|p.41]]
+
+>You may now appreciate the philosophical interest of the dialogue as to the essential nature of piety (holiness) which is your first textual reading (Stumpf & Abel 2002:6-19). If we can find the essence of piety (not just an accidental property), we can apprehend the Form, and so acquire knowledge of piety. But the question which immediately arises is how can we know the nature of the Forms without being presented with these imperfect copies which will always tend to mislead us in our pursuit of the truth (the Forms)? Plato recognized that he could not demonstrate the existence of Forms by means of rational deductive argument. He also acknowledged that, in the end, his account had to be accepted on the basis of an intuitive belief that ultimate reality is immaterial and not accessible to sense perception. [[PLS1501-TUT-2023-501.pdf#page=41&annotation=3958R|p.41]]
+
+>But we should not on such grounds immediately dismiss the Platonic theory, for any theory that we give about the nature of the world must ultimately rest on intuitive beliefs which cannot be rationally justified [[PLS1501-TUT-2023-501.pdf#page=42&annotation=3964R|p.42]]
+
+>At first we shall feel puzzled and afraid, but once we have become used to the light we shall appreciate that we have knowledge that was not available in the cave. [[PLS1501-TUT-2023-501.pdf#page=42&annotation=3964R|p.42]]
+
+>Plato's “Theory of Forms'' depends on acknowledging that the soul is immortal, or, at the very least, that it existed before it came to the material world [[PLS1501-TUT-2023-501.pdf#page=42&annotation=3970R|p.42]]
+
+##### The doctrine that knowledge is anamnesis (recollection)
+>Plato thought that the immaterial soul is independent of, and superior to, the material body. This view of the body and soul as two different substances is a form of dualism which is the dominant tradition in western metaphysics. [[PLS1501-TUT-2023-501.pdf#page=42&annotation=3970R|p.42]]
+
+>Plato thought that the soul belongs to the changeless world of Forms rather than to the changing world of sense perception. After death, the soul might go back to the world of Forms, although it might return once more to the material world at some later stage. But each time it returned within a body it was as though it had been once more imprisoned. [[PLS1501-TUT-2023-501.pdf#page=42&annotation=3976R|p.42]]
+
+>While in a material body the soul became polluted, and for this reason it would at least partially forget the world of Forms. Sense perception might serve to remind the soul of that world, but it could only begin to apprehend Forms because it had once known them fully. This explains the sense of familiarity with which people grasp a new point, the flash of recognition which accompanies new knowledge [[PLS1501-TUT-2023-501.pdf#page=42&annotation=3979R|p.42]]
+
+##### Summary
+<u>It may be useful at this stage to provide a brief summary of the chief aspects of Plato's theory of knowledge</u>:
+>- Knowledge is permanent and certain, that is, it is not subject to correction [[PLS1501-TUT-2023-501.pdf#page=43&annotation=3982R|p.43]]
+>- It is not possible to claim knowledge on the basis of sense perception and therefore it is not possible to claim knowledge of any object or event in the material world. The best we can aspire to is true belief [[PLS1501-TUT-2023-501.pdf#page=43&annotation=3985R|p.43]]
+>- True belief can guide us and prompt the mind to remember the world of Forms. [[PLS1501-TUT-2023-501.pdf#page=43&annotation=3988R|p.43]]
+>- Forms are eternal and changeless and therefore they can be the objects of knowledge [[PLS1501-TUT-2023-501.pdf#page=43&annotation=3991R|p.43]]
+>- Forms cannot be perceived by the senses; it is only the mind which makes us aware of them. [[PLS1501-TUT-2023-501.pdf#page=43&annotation=3994R|p.43]]
+>- Thus we can know only by virtue of our mind, and by its capacity for recollection. [[PLS1501-TUT-2023-501.pdf#page=43&annotation=3997R|p.43]]
+
+##### Point to ponder
+>[[PLS1501-TUT-2023-501.pdf#page=43&annotation=4000R|Taking the above into consideration, plus the remarks made in the final paragraphs of 2.9 about mathematics, do we need to suppose the existence of Forms and the pre-existence of the mind]]
+
+##### Feedback
+>Mathematics is a form of knowledge that is independent of experience in a way that empirical sciences (e.g. chemistry) are not. But for that very reason we do not need to suppose pre-existent minds to explain how we may acquire it. All that is required is an understanding of the meanings of the terms used, such as straight line, triangle, or the words for numbers, together with certain assumptions about them which, in the case of Euclidean geometry, are derived from our experience of the world about us. They remain assumptions, however, and we argue only that if they are true, certain theorems resulting from them are also true. If a geometrical proof is set out formally, some of these assumptions will be treated as starting points (axioms), and the special terms used will be defined carefully. It then becomes clear that all we need for knowledge of geometry is the ability to understand these axioms and definitions plus the ability to draw deductive conclusions. This is the ability we use when we infer from the statement that Ben has a brother-in-law that Ben has a married sister. Plato's argument proves only that people naturally have this kind of reasoning ability and not that they existed before birth! [[PLS1501-TUT-2023-501.pdf#page=43&annotation=4003R|p.43]]
+
+##### Point to Ponder
+>How does Socrates's claim to preach a doctrine of ignorance differ from that of the skeptical Sophists? [[PLS1501-TUT-2023-501.pdf#page=44&annotation=4006R|p.44]]
+
+##### Feedback
+>The Sophists adopted a Parmenidean skeptical approach to the problem of knowledge and defended any thesis as providing an opportunity to demonstrate their dialectical (argumentative) expertise. Socrates, however, sought intellectual (philosophical) clarity as an end in itself, even if that meant challenging common sense opinion. A belief which is difficult to grasp other-worldly truth underlies Socratic dialogue, whereas the sole aim of the reasoning of the Sophists was the transmission of technical expertise [[PLS1501-TUT-2023-501.pdf#page=44&annotation=4009R|p.44]]
+
+##### Points to ponder
+>- Why did Plato think that virtue depends on knowledge? 
+>
+>- Does Plato's allegory of the cave explain how we come to have knowledge of the Forms? [[PLS1501-TUT-2023-501.pdf#page=44&annotation=4012R|p.44]]
+
+---
+#### The relationship between knowledge, truth, belief, and justification in Plato
+>The meaning of the word “knowledge” is such that, if I claim to know something, that something must be logically true if I am making a serious claim to knowledge. In his writings Plato argues that knowledge must be true: if something is not true, he says, we cannot know it. According to Plato, it is only in so far as an individual mental state participates in the truth that we can call this mental state “knowing”. And, as we have seen, truth, for Plato, consists essentially in the degree to which any particular thing conforms to the archetype of that thing in the realm of Forms. Knowledge consists fundamentally in perceiving the conformity (or extent of this conformity). [[PLS1501-TUT-2023-501.pdf#page=44&annotation=4020R|p.44]]
+
+>As far as the mental states involved in the process of knowing are concerned, modern thinkers often tend to contrast knowledge with belief. This is possibly because knowing implies some kind of acceptance or assertion of a fact [[PLS1501-TUT-2023-501.pdf#page=44&annotation=4023R|p.44]]
+
+> For Plato, as for anyone who overemphasizes the role of reason, knowledge is an individual intellectual state or act of recognition of the truth. Knowledge is all inside the head what lies outside in the material world are just the contingent, deceptive appearances of knowledge (See Stumpf & Abel 2002:29-43) [[PLS1501-TUT-2023-501.pdf#page=44&annotation=4026R|p.44]]
+
+##### Criticism of Plato's theory of knowledge
+>Like all good philosophers, Plato was quite critical of his own philosophy. Having anticipated weaknesses in his philosophy (which others, of course, were not slow to identify), Plato constantly subjected his philosophy to self-criticism. The main difficulties are to explain how the Forms are related to one another and to the particular things which exemplify them. [[PLS1501-TUT-2023-501.pdf#page=45&annotation=4029R|p.45]]
+
+>Another difficulty is to understand how things “participate'' in the Forms [[PLS1501-TUT-2023-501.pdf#page=45&annotation=4032R|p.45]]
+
+>Does it help to say that the particulars imitate or approximate to the Form? [[PLS1501-TUT-2023-501.pdf#page=45&annotation=4035R|p.45]]
+
+>Should we not suppose yet another Form (as one term of the relation of similarity) and the first Form (as the other)? If so, we shall then be in need of yet another Form to explain the relation of the first (and the particulars) to the second, and so on indefinitely. This, in effect, is Aristotle's criticism, commonly known as “the third man argument”: if the Form of Man is the thing that all men resemble, is it not just another man? If it is not, how can men resemble it? [[PLS1501-TUT-2023-501.pdf#page=45&annotation=4038R|p.45]]
+
+##### Point to ponder
+>[[PLS1501-TUT-2023-501.pdf#page=46&annotation=4041R|Can you think of any criticisms of your own against Plato's theory of Forms?]]
+
+##### Feedback
+>It may have occurred to you that certain general terms are basically relational. For example, terms such as “tall”, “short”, “heavy”, and “light” seem to have no absolute meaning, but imply some reference to a standard of comparison. Without such a reference the term is without meaning. There can be no Form of tallness, since if there were to be, the same individual would be “tall” when compared with one individual and “short” in comparison with another. Or consider a heap of salt. If one were to add a bit of salt to it, the heap would increase in size; but if one were to add a piece of “smallness” to something, that something would logically decrease in size. So one must either deny that relational qualities can possibly be Forms, or be led into contradiction [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4044R|p.46]]
+
+##### Point to ponder
+>[[PLS1501-TUT-2023-501.pdf#page=46&annotation=4052R|Do you agree with Plato that universals must be known prior to our being able to know the individual things to which we apply them as descriptive terms?]]
+
+##### Feedback
+>A realist approach to universals, such as that taken by Plato, implies that classes are themselves objects of knowledge and completely independent of particulars as objects of knowledge. The difficulties encountered in explaining just how each can be equally legitimate objects of knowledge within the confines of a coherent epistemology suggest problems for the defense of a realist position on universals. [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4055R|p.46]]
+
+# Aristotle
+>1. We perceive the world through our senses but realize that our perceptions are only partial representations of reality because the world is constantly changing from potentiality into actuality. [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4058R|p.46]]
+>2. In order to discover the essence of what we perceive, we have to use our reason to arrive at the qualities of a thing that are unchanging [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4061R|p.46]]
+>3. This is firstly done by categorising all knowledge at its lowest level as contingent (undifferentiated and changing, e.g., plants), then universal or genus (qualities shared by a particular group e.g., trees) and finally essential or species (qualities uniquely specific e.g., oak trees that have acorns). Essential qualities answer the question why by establishing a chain of cause and effect reasoning. [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4064R|p.46]]
+>4. Essential properties can also be inductively arrived at by understanding the four causes (reasons) that give rise to existence. [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4067R|p.46]]
+
+>A solution to the problem we have been examining was suggested by Plato's famous student, Aristotle (384-322 BCE). Aristotle agrees with Plato that the ever-changing particulars cannot be objects of knowledge as particulars, but he thinks that sense perception can, and indeed must, play a part in the acquisition of knowledge [[PLS1501-TUT-2023-501.pdf#page=46&annotation=4070R|p.46]]
+
+>Aristotle does not think that Forms can exist independently of particulars. The relationship between them is not comparable to the relationship between an object and its shadow. He thinks that Forms and particulars are interdependent; in other words, neither can exist without the other. [[PLS1501-TUT-2023-501.pdf#page=47&annotation=4073R|p.47]]
+
+>Moreover, Aristotle does not believe that our knowledge of Forms is innate, depending on recollection from an existence in the world of Forms [[PLS1501-TUT-2023-501.pdf#page=47&annotation=4076R|p.47]]
+
+>Aristotle's thought, sense perception is not just an aid it plays an essential role. According to Aristotle (1953:13), “the act of sense perception is of the particular but its content is Universal''. [[PLS1501-TUT-2023-501.pdf#page=47&annotation=4079R|p.47]]
+
+>An established hierarchy of Forms gives us a classifying scheme and any Form can be defined by its place in the scheme. The lowest Form is a species, which is contained within a higher Form, its genus. A species is distinguished from other species in the genus by its unique and essential characteristics. [[PLS1501-TUT-2023-501.pdf#page=47&annotation=4082R|p.47]]
+
+>As mentioned earlier, an important feature of Aristotle's scheme of classification and of knowledge is that it is only possible to have knowledge of Forms, not of the particulars which make up the species. This is because particulars cannot be defined. To appreciate this we must understand the difference between a definition and a description. A particular can be described and identified, but it cannot be defined. That is, there are no properties which are essential to it as a particular, no properties which are required to make it the particular object which it is. [[PLS1501-TUT-2023-501.pdf#page=47&annotation=4085R|p.47]]
+
+##### Aristotelian epistemology
+>The classificatory scheme of knowledge devised by Aristotle can be more fully explained if one considers various examples. Let us first consider geometrical figures. One must appreciate that defining properties (or attributes) are essential to a geometrical figure being that figure, and that further properties can be logically deduced from these essential attributes [[PLS1501-TUT-2023-501.pdf#page=47&annotation=4088R|p.47]]
+
+>Aristotle does not think that it is impossible to discover these essential attributes. He appreciates that we cannot start by defining an existent species in the way that we can define a mythical creature like a winged horse, but he thinks that there is a defining attribute (or, sometimes, a set of defining attributes), and by observing the particular individuals, this defining attribute can be discovered. [[PLS1501-TUT-2023-501.pdf#page=48&annotation=4091R|p.48]]
+
+>This process of generalizing, that is, making general assertions about properties by appealing to evidence from observation of particulars, is known as induction [[PLS1501-TUT-2023-501.pdf#page=48&annotation=4094R|p.48]]
+
+>It is only if causal connection can be established that it becomes justifiable to assert that a property is essential and therefore necessary. Having shown a causal connection, a plain fact becomes a reasoned fact. [[PLS1501-TUT-2023-501.pdf#page=48&annotation=4097R|p.48]]
+
+Aristotle (1953:93a 16; 93a 3) emphasised that we have to observe the plain fact in order to be able to show that it is a reasoned fact, although the fact and its reason may be apprehended simultaneously:
+>When we are aware of a fact we seek its reason and though sometimes the fact and reason dawn upon us simultaneously, yet we cannot apprehend the reason a moment sooner than the fact; and clearly in just the same way we cannot apprehend a thing's definable Form without apprehending that it exists, since while we are ignorant whether it exists we cannot know its essential nature. [[PLS1501-TUT-2023-501.pdf#page=48&annotation=4105R|p.48]]
+>Moreover we are aware whether a thing exists or not sometimes through apprehending an element in its character, and sometimes accidentally, as, for example, when we are aware of thunder as a voice in the clouds ... As often we have accidental knowledge that the thing exists, we must be in a wholly negative state as regards awareness of its essential nature; for we have not got genuine knowledge even of its existence, ... the degree of our knowledge of a thing's essential nature is determined by the sense in which we are aware that it exists ... (And) to know its essential nature is, as we have said, to know the cause of a thing's existence, and the proof of this depends on the fact that a thing must have a cause. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4108R|p.49]]
+
+>Aristotle's answer to the question about how we know that we have indeed obtained knowledge and a true understanding of reasoned fact is that we know this by intuition or what he called nous. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4111R|p.49]]
+
+>Nous is a superior kind of apprehension. It is more reliable than deduced, scientific knowledge, since truth is known directly. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4114R|p.49]]
+
+##### Summary
+At this stage a summary of the important features of Aristotle's analysis of knowledge may be helpful:
+>1. Like Plato, Aristotle was a realist; the Forms have an objective existence about which he was as sure as he was of the existence of physical objects [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4117R|p.49]]
+>2. Unlike Plato, Aristotle believes that Forms cannot exist without particulars: they are interdependent. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4120R|p.49]]
+>3. For Plato, knowledge can only be gained by recollecting the Forms which the mind had known in its pre-bodily existence. For Aristotle, knowledge is gained with the help of the sense perception of particulars. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4123R|p.49]]
+>4. All Forms have necessary attributes which define them and on the basis of which (along with their relations to other Forms) their properties can be logically deduced. Observation helps us to discover essential properties by showing the plain facts of association of properties. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4126R|p.49]]
+>5. Nous (intuition) reveals causes of associations and therefore reveals reasoned facts. [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4129R|p.49]]
+>6. Reasoned facts are the basis of scientific knowledge and further scientific knowledge is reached by deduction. This knowledge is necessary it cannot be otherwise [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4132R|p.49]]
+>7. Empirical inquiry (inquiry into the world as we perceive it), therefore, can give us knowledge which is as certain as mathematical knowledge [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4135R|p.49]]
+
+>As far as the relationship between knowledge, truth, belief, and justification are concerned, Aristotle accepted the general conditions that knowledge was connected to truth, to belief, and to justification [[PLS1501-TUT-2023-501.pdf#page=49&annotation=4138R|p.49]]
+
+>Aristotle places great emphasis upon the other two conditions. Truth, for him, is not the faithfulness of an entity to a general type or Form, which reason allows us all, in some degree, to perceive. Knowing is not recognizing, in an internal act, that something is a fairly faithful representation of its type. In a well-known passage of his Metaphysics Aristotle writes that “to speak the truth is simply to say of what is, that it is, or of what is not, that it is not; and to speak falsely is to say of what is, that it is not, or of what is not, that it is''.[[PLS1501-TUT-2023-501.pdf#page=50&annotation=4141R|p.50]]
+
+>Aristotle also pays close attention to justification. He emphasizes the need for extensive and careful observation, and places a high value on the tireless investigation of scientific matters, an investigation which, in principle, might be never-ending since new evidence is always coming to light. [[PLS1501-TUT-2023-501.pdf#page=50&annotation=4144R|p.50]]
+
+##### Point/Points to ponder
+>[[PLS1501-TUT-2023-501.pdf#page=51&annotation=4147R|How do you think we can know that we have indeed found a true definition and a true cause (“reasoned fact'')? How does Aristotle explain the transition from plain fact to reasoned fact?]]
+
+##### Feedback
+>When we are aware of a fact we seek its reason and, although sometimes the fact and reason dawn upon us simultaneously, yet we cannot apprehend the reason a moment sooner than the fact; clearly, in the same way, we cannot apprehend a thing's definable Form without apprehending that it exists since, while we are ignorant of its existence, we obviously cannot know its essential nature. Moreover, we are aware whether a thing exists or not sometimes through apprehending an element in its character, and sometimes accidentally, as, for example, when we are aware of thunder as a voice in the clouds. Since we often have only accidental knowledge that the thing exists, we must be in a wholly negative state about our awareness of its essential nature; for we have no genuine knowledge even of the thing's existence. The degree of our knowledge of a thing's essential nature is determined by the sense in which we are aware that it exists. And to know its essential nature is to know the cause of a thing's existence, and the proof of this depends on the fact that a thing must have a cause. [[PLS1501-TUT-2023-501.pdf#page=51&annotation=4150R|p.51]]
+
+##### Point to ponder
+>For Plato the ultimate real features of the universe are the Forms; for Aristotle they are the individual things that make up the world. Which view do you think is correct and why? [[PLS1501-TUT-2023-501.pdf#page=51&annotation=4153R|p.51]]
+
+##### Feedback
+>As a pointer to a response to this complex question, one might suggest the following. One could argue that neither is correct that talk about “the ultimate real features of the universe'' is idle, etcetera but that would not be a philosophical answer. Clearly some (brief) exposition of both Plato's and Aristotle's metaphysical views is required, together with critical evaluation of the limitations of each. That would be the correct interpretation and response to this somewhat difficult question. [[PLS1501-TUT-2023-501.pdf#page=51&annotation=4156R|p.51]]
+
+#### The doctrine of the four causes
