@@ -97,5 +97,26 @@
 
 ---
 # 📝My Notes
-#### Study Units
+## Study Units
+#### Study Unit 1
 1. [[PLS1501-ME-SU1-QUOTES]]
+2. [[PLS1501-ME-SU1-POINTSTOPONDER]]
+3. [[PLS1501-ME-SU1-SELFTEST-Q]]
+##### Auto Notes
+- [[PLS1501-ME-SU1-AutoNotes-CLAUDESONNET]]
+- [[PLS1501-ME-SU1-AutoNotes-GEMINIPRO]]
+- [[PLS1501-ME-SU1-AutoNotes-JAMBALARGE]]
+##### My Notes
+- [[PLS1501-ME-SU1-SUM]]
+---
+## Study Units
+#### Study Unit 2
+1. [[PLS1501-ME-SU2-QUOTES]]
+	1. [[PLS1501-ME-SU2-QUOTES-SOCvLA]]
+2. [[PLS1501-ME-SU2-SELFTEST-Q]]
+##### Auto Notes
+- [[PLS1501-ME-SU2-AutoNotes-CLAUDESONNET]]
+- [[PLS1501-ME-SU2-AutoNotes-GEMINIPRO]]
+- [[PLS1501-ME-SU2-AutoNotes-JAMBALARGE]]
+##### My Notes
+- [[PLS1501-ME-SU2-SUM]]

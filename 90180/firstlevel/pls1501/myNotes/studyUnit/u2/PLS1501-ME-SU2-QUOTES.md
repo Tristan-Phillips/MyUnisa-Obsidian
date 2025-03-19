@@ -352,3 +352,96 @@ At this stage a summary of the important features of Aristotle's analysis of kno
 >As a pointer to a response to this complex question, one might suggest the following. One could argue that neither is correct that talk about “the ultimate real features of the universe'' is idle, etcetera but that would not be a philosophical answer. Clearly some (brief) exposition of both Plato's and Aristotle's metaphysical views is required, together with critical evaluation of the limitations of each. That would be the correct interpretation and response to this somewhat difficult question. [[PLS1501-TUT-2023-501.pdf#page=51&annotation=4156R|p.51]]
 
 #### The doctrine of the four causes
+>There are, according to Aristotle, four general kinds of cause which may operate in determinative way on anything, or be given in answer to the question of what something is, or why something is the case. [[PLS1501-TUT-2023-501.pdf#page=51&annotation=4159R|p.51]]
+
+>The material cause of anything is the stuff of which it is composed, its constituent matter. [[PLS1501-TUT-2023-501.pdf#page=51&annotation=4162R|p.51]]
+
+>The second kind of cause Aristotle identified is usually referred to as the formal cause. Here we have to do with the shape, pattern, composition or structure of something. [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4165R|p.52]]
+
+>Form is always distinguishable from matter. [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4168R|p.52]]
+
+>The third cause is dynamic and distinguishable from its object. It is the efficient or motive cause the initiator of the process by which something comes into being, sometimes natural, sometimes involving a deliberate action. [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4171R|p.52]]
+
+>The fourth Aristotelian cause is the final cause. This is the goal or end of anything; in other words, for the sake of which something occurs. [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4174R|p.52]]
+
+##### Point to ponder
+>Explain what a motor car tire is, in terms of the four causes. Begin each of the four answers with “A motor car tire is ...” [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4177R|p.52]]
+
+##### Feedback
+>Material cause: a motor car tire is made of rubber with chemical additives, sometimes with steel wire reinforcing, and a steel rim. 
+>
+>Formal cause: a motor car tire is patterned on a circle, about 20 centimeters deep, with a textured surface. 
+>
+>Efficient cause: a motor car tire is produced by melting and molding rubber. 
+>
+>Final cause: a motor car tire is aimed at producing a safe, smooth car/road interface. Something of this sort would have done. Note the characteristic phrases in bold type [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4185R|p.52]]
+
+#### Metaphysical implications of the doctrine of the four causes
+>Aristotle sees knowledge as an ordinary matter which is within the grasp of all those who take enough pains to observe the world around them. It is not, as Plato believed, a mystical communion with ghostly Forms that only the exceptionally gifted person, the Philosopher-King, blessed with Reason in the highest degree can achieve in full, and which most ordinary people are destined never to have. [[PLS1501-TUT-2023-501.pdf#page=52&annotation=4188R|p.52]]
+
+>Can we understand everything, then? Yes, says Aristotle, except those things which happen by accident and are not determined by causal laws [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4191R|p.53]]
+
+>That which happens by chance does not happen in accordance with a causal law, and is not knowable in the full sense because we cannot understand or explain it we just observe it uncomprehendingly. [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4194R|p.53]]
+
+>The second point to be made about this doctrine is that it goes hand in hand with a particular theory of what there is (ie a metaphysics). Observable causal relations are the route to knowledge, the objects of knowledge being the things that are fixed by those relations, and these things are ordinary physical objects like tables, cats, and cups [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4197R|p.53]]
+
+>There is no hierarchy of being with Forms at the top and physical objects at the bottom, as we find in Plato. The physical objects of knowledge are all there is. For Plato, “the real'' is identical with “the true''; reality is the supersensible world of Forms accessible only to the faculty of reason. [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4200R|p.53]]
+
+>Summarizing his four causes Aristotle notes that “all things that come to be come to be by some agency and from something, and come to be something''. He goes on to elaborate his notion that form and matter never exist separately. [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4203R|p.53]]
+
+>Aristotle indicates that change does not involve bringing together formless matter with matter-less form. On the contrary, change occurs always in, and to, something that is already a combination of form and matter and that is on its way to becoming something new or different. [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4206R|p.53]]
+
+>According to Aristotle, matter is potentiality and form is actualized matter. In contradiction to Plato's dualism whose substances are Forms, of which the phenomena of the world are mere imitations [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4209R|p.53]]
+
+>All things, says Aristotle, are involved in processes of change. Each thing possesses a power to become what its form has set as its end. There is, in all things, a dynamic power of striving toward their “end" [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4212R|p.53]]
+
+>But there is also the striving to achieve ends that reveal one's internal nature [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4215R|p.53]]
+
+>This self-contained end of anything Aristotle called its entelechy. It is the idea that things have ends which leads Aristotle to consider the distinction between potentiality and actuality [[PLS1501-TUT-2023-501.pdf#page=53&annotation=4218R|p.53]]
+
+>If everything were involved in change, in birth and decay, everything would partake of potentiality [[PLS1501-TUT-2023-501.pdf#page=54&annotation=4221R|p.54]]
+
+>Aristotle saw the visible world as one composed of things in motion. And to explain motion ultimately led Aristotle to speak of the Unmoved Mover [[PLS1501-TUT-2023-501.pdf#page=54&annotation=4224R|p.54]]
+
+##### Point to ponder
+>[[PLS1501-TUT-2023-501.pdf#page=54&annotation=4232R|The central concern of metaphysics is the study of substance, the essential nature of a thing. How does Aristotle's theory of reality (metaphysics) clarify this issue?]]
+
+##### Feedback
+>Aristotle draws a distinction between matter and form. According to Aristotle, matter is potentiality and form is actualized matter. He believes that the particular substances are first substances in which through their form the universal is expressed. The first substances are thus real they are the foundations of experience, without which the universal could not be understood. Each thing possesses a power to become what its form has set as its end. There is, in all things, a dynamic power of striving toward their “end.'' Some of this striving is toward external objects, such as when a man builds a house. But there is also the striving to achieve ends that reveal one's internal nature, such as when a person fulfils her nature as a person by the act of thinking. This self-contained end of anything Aristotle called its entelechy. Substances are beings which have fulfilled their entelechies. [[PLS1501-TUT-2023-501.pdf#page=54&annotation=4235R|p.54]]
+
+##### The Unmoved Mover
+>For Aristotle, the Unmoved Mover does not mean the same thing as a first mover, as though motion could be traced back to a time when motion began. Nor is the Unmoved Mover considered by him a creator in the sense of later theology.  [[PLS1501-TUT-2023-501.pdf#page=54&annotation=4238R|p.54]]
+
+>Each thing is aiming at perfecting its possibilities and its end [[PLS1501-TUT-2023-501.pdf#page=55&annotation=4241R|p.55]]
+
+>Aristotle introduces the notion of the Unmoved Mover as the “reason for'' or the “principle of '' motion. Hence, it is the actual as well as the eternal principle of motion. [[PLS1501-TUT-2023-501.pdf#page=55&annotation=4244R|p.55]]
+
+>By being a final cause, the Unmoved Mover thereby, in relation to the world, becomes also efficient cause through the power of attraction, by inspiring the striving towards natural ends, a process that goes on eternally. Aristotle's Unmoved Mover is found within the world, and makes the world an intelligible order [[PLS1501-TUT-2023-501.pdf#page=55&annotation=4247R|p.55]]
+
+##### Critical observations
+>We can object to the assumption that reason is an infallible guide to causes of events in the world, and that it can show us that attributes are necessarily associated[[PLS1501-TUT-2023-501.pdf#page=55&annotation=4250R|p.55]]
+
+>Both the rationalist Descartes and the empiricist Locke regarded mathematical knowledge as the paradigm of knowledge. It was the paradigm of knowledge because mathematical knowledge could be arrived at by deduction from the defining (and therefore the essential) properties of mathematical entities. [[PLS1501-TUT-2023-501.pdf#page=55&annotation=4253R|p.55]]
+
+>Systems of classifications may help scientists to discover unknown species. Observation of properties of chemical elements led to creation of the periodic table, an extremely successful classificatory device. When it was first proposed, in 1869, the periodic table was, like classifications of plant and animal life, based on empirical facts, not on reasoned facts. [[PLS1501-TUT-2023-501.pdf#page=55&annotation=4256R|p.55]]
+
+>Neither Plato nor Aristotle considered the possibility that different kinds of knowledge, that is, knowledge about different kinds of objects (mathematical entities as opposed to empirical facts) might be justified in different ways. For them, all knowledge had to be logically necessary and beyond any doubt. For Plato, the objects of knowledge were Forms, intuitively apprehended by mental contemplation. For Aristotle, there could only be knowledge of existing entities in so far as the properties of a species (their universal attributes) are concerned. So to have knowledge (nous) of the “Evil Eye'', of the black cat, would be identical to linking various particular and evident facts seeing the universal (catness) in that particular cat [[PLS1501-TUT-2023-501.pdf#page=56&annotation=4259R|p.56]]
+
+##### Points to ponder
+>Are classifying schemes merely devices for grouping entities together on the basis of certain property(ies) which they happen to have in common? If they are, the association of these properties is a contingent association, not a necessary association. Is essential knowledge still possible? 
+>
+>Do you agree with Aristotle that scientific laws embody logically necessary truth? [[PLS1501-TUT-2023-501.pdf#page=56&annotation=4262R|p.56]]
+
+##### Feedback
+>Aristotle did not consider the possibility that different kinds of knowledge, that is, knowledge about different kinds of objects (mathematical entities as opposed to empirical facts) might be justified in different ways. For him, all knowledge had to be logically necessary and beyond any doubt. Before Hume (1711-1776), Aristotle and the philosophers and scientists who came after him continued to believe in the possibility of discovering the true causes of physical events. Aristotle thought that this would provide the logically necessary connection between events. He believed that this logically necessary connection must be deduced from intuitively self-evident premises, and, taking this as his starting point, he explored nature, developing his theory of the four causes as a consequence of his view of logical necessity. But modern scientists are unanimous in siding with Hume against Aristotle on this matter. [[PLS1501-TUT-2023-501.pdf#page=56&annotation=4265R|p.56]]
+
+##### Summary
+>In this study unit we introduced you to the discipline of philosophy by pointing out that philosophy is actually an ongoing discussion between various thinker [[PLS1501-TUT-2023-501.pdf#page=56&annotation=4268R|p.56]]
+
+>The issues we examined here are What is knowledge? (theory of knowledge, epistemology) and What is reality? (metaphysics) [[PLS1501-TUT-2023-501.pdf#page=56&annotation=4271R|p.56]]
+
+>By tracing the debate among the Milesians concerning the first cause (arche), you were shown how philosophies “develop'' over time [[PLS1501-TUT-2023-501.pdf#page=56&annotation=4274R|p.56]]
+
+>Aristotle sees knowledge as an ordinary matter which is within the grasp of all those who take enough pains to observe the world around them. Knowledge is not, as Plato believed, a mystical communion with ghostly Forms that only the exceptionally gifted person, the Philosopher-King, blessed with Reason in the highest degree, can achieve in full, and which most ordinary people are destined never to possess [[PLS1501-TUT-2023-501.pdf#page=57&annotation=4277R|p.57]]
+
+>However, both philosophers have a concept of knowledge as a necessary relation between events and both philosophers believe that this knowledge lies within our grasp if we adopt the procedures and methods which they recommend [[PLS1501-TUT-2023-501.pdf#page=57&annotation=4280R|p.57]]
