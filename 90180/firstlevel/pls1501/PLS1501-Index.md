@@ -6,6 +6,16 @@
 - [[PLS1501-TUT-2023-501.pdf]] | Its the same as the above provided in 2025 but with character recognition 
 ### Assignments
 1. [[PLS1501-ASS-P-A1.pdf]]
+# Live Class
+- [Class 01 Orientation](https://share.trap.lol/share/iDBoUe57M2RB2TTN) | Password is: UNISAPLS1501
+	- Slide: [[PLS1501-LIVECLASS-01-OrientationSession.pdf]]
+	- Transcript: [[PLS1501-LiveClass-01-TRANSCRIPT-MD]]
+- [Class 02 Using Databases](https://share.trap.lol/share/ebqhADT52zGvfDVE) | Password is: UNISAPLS1501
+- [Class 03 Discussion Class](https://share.trap.lol/share/tMnsk3B2HSFuwzTD) | Password is: UNISAPLS1501
+	- Transcript: [[PLS1501-LiveClass-03-TRANSCRIPT-MD]]
+- [Class 04 Discussion Class part 2](https://share.trap.lol/share/gA8moRLZHhjMtE7w) | Password is: UNISAPLS1501
+	- Transcript: [[PLS1501-LiveClass-04-TRANSCRIPT-MD]]
+
 ---
 # 🌍External Material
 ### Tutorial Letters
@@ -89,11 +99,6 @@
 - [[PLS1501-AD-Logic.pdf]]
 - [[PLS1501-AD-Metaphysics.pdf]]
 - [[PLS1501-AD-TERMSGLOSSARY.pdf]]
-# Live Class
-- [Class 01 Orientation](https://share.trap.lol/share/iDBoUe57M2RB2TTN) | Password is: UNISAPLS1501
-	- Slide: [[PLS1501-LIVECLASS-01-OrientationSession.pdf]]
-- [Class 02 Using Databases](https://share.trap.lol/share/ebqhADT52zGvfDVE) | Password is: UNISAPLS1501
-- [Class 03 Discussion Class](https://share.trap.lol/share/tMnsk3B2HSFuwzTD) | Password is: UNISAPLS1501
 
 ---
 # 📝My Notes
@@ -108,7 +113,7 @@
 - [[PLS1501-ME-SU1-AutoNotes-JAMBALARGE]]
 ##### My Notes
 - [[PLS1501-ME-SU1-SUM]]
----
+
 ## Study Units
 #### Study Unit 2
 1. [[PLS1501-ME-SU2-QUOTES]]
@@ -120,3 +125,8 @@
 - [[PLS1501-ME-SU2-AutoNotes-JAMBALARGE]]
 ##### My Notes
 - [[PLS1501-ME-SU2-SUM]]
+
+---
+## MCQ
+##### Auto Notes
+- [[PLS1501-ME-AutoNotes-STUDYGUIDEQUIZ.png]]
