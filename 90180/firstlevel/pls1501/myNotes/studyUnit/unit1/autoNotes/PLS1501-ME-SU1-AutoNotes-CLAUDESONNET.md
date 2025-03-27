@@ -137,4 +137,4 @@ Despite constitutional changes, the struggle for authentic political liberation 
 
 **Additional Context Information (not in original text):** 
 
-The post-apartheid era has seen the rise of decolonial thought in South African universities, culminating in the #RhodesMustFall and #FeesMustFall movements beginning in 2015. These student-led protests called for curriculum transformation, removal of colonial symbols, and addressing economic barriers to education. The tensions described in these notes continue to shape contemporary debates about transformation in higher education and the role of philosophy in addressing historical injustices.
+The post-apartheid era has seen the rise of decolonial thought in South African universities, culminating in the # RhodesMustFall and # FeesMustFall movements beginning in 2015. These student-led protests called for curriculum transformation, removal of colonial symbols, and addressing economic barriers to education. The tensions described in these notes continue to shape contemporary debates about transformation in higher education and the role of philosophy in addressing historical injustices.

@@ -123,6 +123,37 @@
 - [[PLS1501-ME-SU2-AutoNotes-CLAUDESONNET]]
 - [[PLS1501-ME-SU2-AutoNotes-GEMINIPRO]]
 - [[PLS1501-ME-SU2-AutoNotes-JAMBALARGE]]
+##### Auto Podcast
+1. Study Unit 1
+<audio controls>
+  <source src="https://share.trap.lol/api/shares/kChCSZuHuxRYHluy/files/7a02835e-aef8-46c3-91d3-0cbda76ea42e?download=false" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+2. Study Unit 2
+<audio controls>
+  <source src="https://share.trap.lol/api/shares/cKlvSxhgwqJLtZ9h/files/d7c4aea3-6350-4540-a513-d34f6b907d95?download=false" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+3. Study Unit 3
+<audio controls>
+  <source src="https://share.trap.lol/api/shares/194A5sxGzwXKPonC/files/b822b7c6-d21c-46fd-9c39-77a73e9f3a4e?download=false" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+4. Study Unit 4
+<audio controls>
+  <source src="https://share.trap.lol/api/shares/9Ydw8UF3OtiHBs9z/files/d16b5b7d-8d6e-4571-bdf8-efb871c0683f?download=false" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+5. Study Unit 5
+<audio controls>
+  <source src="https://share.trap.lol/api/shares/HWDlzs4ooSP75Tbr/files/edfb008f-a99c-41e2-a3ea-6b5e5afdf06c?download=false" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+6. Study Unit 6
+<audio controls>
+  <source src="https://share.trap.lol/api/shares/Q6rfcKtOswfELHRb/files/eea70b90-03d7-479e-bf00-55931c07638a?download=false" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 ##### My Notes
 - [[PLS1501-ME-SU2-SUM]]
 
