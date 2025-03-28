@@ -1,0 +1,3 @@
+- Is the continued dominance of Western philosophy in an African country something ethically desirable and sustainable? [[PLS1501-TUT-2023-501.pdf#page=22&selection=144,1,152,26|p.22]]
+- What relevance does the on-going debate and commotion regarding decolonization have relevance in South Africa? [[PLS1501-TUT-2023-501.pdf#page=22&selection=156,0,160,26&color=yellow|p.22]]
+- Is the description of South Africa as a non-racial society logically and substantively sustainable in light of the dominance of western (white culture) including Western philosophy, English and Afrikaans and Western education? [[PLS1501-TUT-2023-501.pdf#page=22&annotation=3678R|p.22]]
